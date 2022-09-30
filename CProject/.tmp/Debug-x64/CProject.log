@@ -1,7 +1,7 @@
 ﻿  main.c
-C:\Users\weitu\Documents\SIT\CSD 1401 Software Engineering Project 1\Visual Studio Setup\CProject\Src\main.c(17,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\weitu\Documents\SIT\CSD 1401 Software Engineering Project 1\Visual Studio Setup\CProject\Src\main.c(17,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-  CProject.vcxproj -> C:\Users\weitu\Documents\SIT\CSD 1401 Software Engineering Project 1\Visual Studio Setup\CProject\bin\Debug-x64\CProject.exe
+C:\Users\weitu\Documents\SIT\CSD 1401 Software Engineering Project 1\CProjectTeamRP\CProject\Src\main.c(17,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\weitu\Documents\SIT\CSD 1401 Software Engineering Project 1\CProjectTeamRP\CProject\Src\main.c(17,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  CProject.vcxproj -> C:\Users\weitu\Documents\SIT\CSD 1401 Software Engineering Project 1\CProjectTeamRP\CProject\bin\Debug-x64\CProject.exe
   File not found - CProcessingd.dll
   0 File(s) copied
   File not found - fmodL.dll
